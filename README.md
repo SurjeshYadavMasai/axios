@@ -1,5 +1,4 @@
-## Axios Video Tutorial: https://youtu.be/AriyBKPIHkk
-## Topics:
+ 
 <ul>
   <li>Introduction to Axios</li>
   <li>Fetch Data from Text File</li>
